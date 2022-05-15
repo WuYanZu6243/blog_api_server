@@ -1,0 +1,12 @@
+{
+    "db":{
+        "user" : "blog_lwy",
+        "password":"blog_zyy",
+        "host" : "127.0.0.1",
+        "port" : "27017",
+        "name" : "personal_blog"
+    },
+    "upload_config":{
+        "baseURL":"http://127.0.0.1:3007"
+    }
+}
